@@ -3,21 +3,21 @@
 # Idee  
 
 ## Produktidee  
-AI Fragen Generator  
+Zufalls-Entscheider  
 
 ## Problem  
-Schüler wissen oft nicht, wie sie sich selbst beim Lernen abfragen sollen.
+Man kann sich oft bei kleinen Entscheidungen nicht festlegen (z. B. was essen, was machen).
 
 ## Ziel  
-Eine App, die aus einem Text automatisch Fragen erstellt.
+Eine App, die zufällig eine Entscheidung aus mehreren Optionen auswählt.
 
 ## Kernfunktionen  
-- Text eingeben  
-- Fragen generieren lassen  
-- Fragen zum Lernen nutzen  
+- Optionen eingeben  
+- Button „Zufällig wählen“ klicken  
+- eine Option wird angezeigt  
 
 ## Warum diese Idee gut für den Workshop ist  
-- sehr einfach  
-- hilfreich fürs Lernen  
-- klarer Nutzen von AI  
-- gut kombinierbar mit anderen Ideen  
+- sehr einfach umzusetzen  
+- macht Spaß beim Testen  
+- zeigt Grundlogik (Listen + Zufall)  
+- schnell fertigstellbar  
