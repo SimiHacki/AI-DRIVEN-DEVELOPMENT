@@ -77,3 +77,44 @@ Eine minimalistische App, in die der Nutzer mehrere Optionen eingibt. Mit einem 
 
 **Deployment:**  
 - Vercel oder Netlify (für Web-App)
+
+
+User Stories & Tasks
+🔹 Epic 1: Optionen verwalten
+User Stories
+Als Nutzer möchte ich Optionen hinzufügen, damit ich zwischen mehreren Möglichkeiten wählen kann.
+Als Nutzer möchte ich Optionen wieder löschen können, falls ich mich umentscheide.
+Als Nutzer möchte ich meine eingegebenen Optionen sehen können.
+Aufgaben (Tasks)
+Input-Feld für neue Option erstellen
+Button „Hinzufügen“ implementieren
+Liste im UI anzeigen
+Funktion zum Löschen eines Listeneintrags bauen
+Daten in einem Array speichern
+🔹 Epic 2: Zufällige Entscheidung
+User Stories
+Als Nutzer möchte ich per Knopfdruck eine zufällige Option auswählen lassen.
+Als Nutzer möchte ich klar sehen, welche Option ausgewählt wurde.
+Aufgaben (Tasks)
+Button „Zufällig auswählen“ erstellen
+Zufallsfunktion (Math.random) implementieren
+Ergebnis optisch hervorheben (z. B. fett / farbig)
+Sicherstellen, dass nur aus vorhandenen Optionen gewählt wird
+🔹 Epic 3: Reset & Kontrolle
+User Stories
+Als Nutzer möchte ich alle Optionen zurücksetzen können.
+Als Nutzer möchte ich neu starten können, ohne die Seite neu zu laden.
+Aufgaben (Tasks)
+Button „Zurücksetzen“ erstellen
+Array der Optionen leeren
+UI-Liste neu rendern
+Auswahl-Display zurücksetzen
+🔹 Epic 4 (Optional): Verbesserungen
+User Stories
+Als Nutzer möchte ich nicht doppelte Optionen eingeben.
+Als Nutzer möchte ich die App einfach und schnell bedienen können.
+Aufgaben (Tasks)
+Prüfen auf doppelte Einträge
+Kleine Fehlermeldung anzeigen
+UI verbessern (Spacing, Buttons, Layout)
+Eingabefeld nach Add automatisch leeren
